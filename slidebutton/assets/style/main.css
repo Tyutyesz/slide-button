@@ -1,0 +1,21 @@
+.slider-container{
+    width: 300px;
+    height: 40px;
+    background-color: #2a7aac;
+    border-radius: 20px;
+}
+.row {
+    margin-top: 50px;
+}
+.slider-handle{
+    width: 98px;
+    height: 38px;
+    background-color: #ffffff;
+    border-radius: 19px;
+    position: relative;
+    top: 1px;
+    left: 1px;
+}
+mat-slider{
+    display: inline-block;
+}
